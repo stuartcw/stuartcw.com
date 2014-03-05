@@ -10,10 +10,10 @@ categories:
 
 ## Shell Scripting
 
-Some trick here
+This is Mac specific. This converts your Safari history to JSON.
 
 {% highlight bash %}
-some code here..
+plutil -convert json ~/Library/Safari/History.plist -o ~/History.plist.json
 {% endhighlight %}
 
 
