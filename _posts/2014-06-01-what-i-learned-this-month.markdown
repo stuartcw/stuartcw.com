@@ -9,8 +9,6 @@ categories:
 
 # What I learned this month
 
-## Bro
-
 
 
 
