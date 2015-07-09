@@ -52,7 +52,7 @@ Nice guy if you meet him in person.
 
 Ademilson has been a good addition to the team. He provides entertaining and unexpected play and has set up quite a few attacks with skilful and unpredictable play that is unlike other players definitely add spice to the match. Unfortunately he has not been able to become the goal machine that we hoped, hopefully this will change in the second stage. In person he is really nice guy and looks like he is enjoying himself in Japan.
 
-- What to expect in the 2nd stage:
+## What to expect in the 2nd stage:
 
 Possibly due to Kurihara's injury in the first stage, the back three defence has looked less solid than before and Kurihara returns to fitness we may see less goals conceded.
 
