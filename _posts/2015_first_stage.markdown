@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "2015 First Stage - Report Card"
+date:   2015-07-09 15:00:00
+categories: 
+  - yfm
+  - tricolore-pride
+  - j-league
+---
+
+
 ## 1st Stage Result - 6th place:
 
 Not bad. Given at the start of the season we were worried that we were without any new players and especially without a striker the rise up the table to top third is about as good as we can expect. We were expecting a bottom third placement at the start of the year.
