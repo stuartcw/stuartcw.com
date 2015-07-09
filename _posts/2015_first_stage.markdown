@@ -6,6 +6,8 @@ categories:
   - yfm
   - tricolore-pride
   - j-league
+  - 2015
+  - football
 ---
 
 
