@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # About: Stuart Labs
 
-Hi, my name is Stuart Woodward and I'm an IT Consultant based in Tokyo. I haved in Japan since 1988 and worked in IT in Tokyo since 1989.
+Hi, my name is Stuart Woodward and I'm an IT Consultant based in Tokyo. I have lived in Japan since 1988 and worked in IT in Tokyo since 1989.
 
 ## How this site was made.
 This site uses the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
