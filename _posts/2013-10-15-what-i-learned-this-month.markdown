@@ -12,9 +12,7 @@ categories:
 
 You can grep inside gzipping files directly using zcat. See below:
 
-{% highlight bash %}
-find . -name "acc*.gz" -exec zcat "{}" + |grep "error"
-{% endhighlight %}
+find . -name "acc*.gz" -exec zcat "{}" + | grep "error"
 
 This is especially useful for grepping logfiles that have been compressed.
 

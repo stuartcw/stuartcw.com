@@ -1,3 +1,8 @@
 name: Stuart Woodward 
-markdown: redcarpet
-pygments: true
+
+# Dependencies
+markdown:    kramdown
+highlighter: pygments
+
+source:      _posts
+destination: _site
