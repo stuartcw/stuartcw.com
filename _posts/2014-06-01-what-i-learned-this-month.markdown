@@ -24,14 +24,6 @@ The most immediate benefit that a site gains from deploying Bro is an extensive 
 ### bash -u
 I should have know this, but bash -u finds undeclared variables for you.
  
-## Health
-
-### If your teeth bleed
-
-If your teeth bleed it is because you have gum disease. Get the dentest to properly clean the plaque off your teeth.
-
-### 
-
 
 
 
