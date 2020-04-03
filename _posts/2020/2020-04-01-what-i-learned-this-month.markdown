@@ -35,6 +35,13 @@ l2=[10,20,30,40,50]
 compareLists(l1, l2 )
 ```
 
+Results
+
+```
+{'iterable_item_added': {'root[4]': 50}}
+New: 50
+```
+
 
 
 ## Shell
