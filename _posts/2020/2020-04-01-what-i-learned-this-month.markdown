@@ -52,6 +52,17 @@ Finds bugs in your shell scripts.
 
 * [ShellCheck](https://github.com/koalaman/shellcheck)
 
+## Nginx 
+
+### Logs
+
+/usr/local/Cellar/nginx/1.17.7/logs
+
+### Settings
+
+/usr/local/etc/nginx/
+
+
 ## To Learn
 
 * How to write a simple slack bot on PythoAnywhere
