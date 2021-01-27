@@ -91,7 +91,7 @@ Ending arp-scan 1.9.5: 256 hosts scanned in 6.466 seconds (39.59 hosts/sec). 17 
 * Some good leadership lessons here: [8 reliable lessons for unreliable times — Masters of Scale with Reid Hoffman — Overcast](https://overcast.fm/+I6DC--ISU)
 * this was interesting when he got into talking about skills-domain-field… [My Favorite Things: How to Find Success No MATTER What Your Interest Is! — The James Altucher Show — Overcast](https://overcast.fm/+BcN3hQ3Jc)
 * wow if this really works https://twitter.com/mashable/status/1353034007517171712
-*  Very inspirational and detailed story how a guy built his own business: [How I accidentally built a Podcast API business | Listen Notes](https://www.listennotes.com/blog/how-i-accidentally-built-a-podcast-api-business-46/)
+*  Very inspirational and detailed story how a guy built his own business: [How I accidentally built a Podcast API business : Listen Notes](https://www.listennotes.com/blog/how-i-accidentally-built-a-podcast-api-business-46/)
 * Mozilla Engineer Track: https://twitter.com/Gankra_/status/1046438955439271936
 * The origin of the Beatles track "Dear Prudence" - [YouTube](https://youtu.be/_EENbm2oeX0)
 
@@ -114,10 +114,10 @@ Ending arp-scan 1.9.5: 256 hosts scanned in 6.466 seconds (39.59 hosts/sec). 17 
 ### Miscellaneous Links
 
 * I don't write much CSS/HTML at the moment but this looks like a useful tool [Emmet](https://docs.emmet.io/)
-* [Haruki Murakami: Daily Routine - Balance The Grind | Conversations On Work, Life & Balance](https://www.balancethegrind.com.au/daily-routines/haruki-murakami-daily-routine/)
+* [Haruki Murakami: Daily Routine - Balance The Grind : Conversations On Work, Life & Balance](https://www.balancethegrind.com.au/daily-routines/haruki-murakami-daily-routine/)
 * This is the kind of website that I want to build. I might make a static site generator to make this site look like it. [Gwern.net](https://www.gwern.net/About)
 * [Snorkel](https://www.snorkel.org/)
-*  [MIT's Introduction to Economics: A Free Online Course |  Open Culture](https://www.openculture.com/2021/01/mits-introduction-to-economics-a-free-online-course.html)
+*  [MIT's Introduction to Economics: A Free Online Course :  Open Culture](https://www.openculture.com/2021/01/mits-introduction-to-economics-a-free-online-course.html)
 * To listen: [Howie Lempel on why we aren't worried enough about the next pandemic — and specifically what we can do to stop it. - 80,000 Hours](https://80000hours.org/podcast/episodes/we-are-not-worried-enough-about-the-next-pandemic/)
 * [YouTube](https://www.youtube.com/watch?v=-knZwdd1ScU&feature=emb_logo)
 * https://twitter.com/thingskatedid/status/1316074032379248640?s=12
@@ -167,7 +167,7 @@ tldr jq
 
       cat file.json | jq --raw-output '"some text: \(.key_name)"'
 
-		```
+```
 
 ## To Learn
 
