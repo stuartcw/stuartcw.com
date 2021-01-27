@@ -73,46 +73,57 @@ Ending arp-scan 1.9.5: 256 hosts scanned in 6.466 seconds (39.59 hosts/sec). 17 
 ```
 ### Personal Analytics
 
-* Great Podcast: I love the story of Django.. https://overcast.fm/+F4RDYeRcw He talks about my passion for personal data collection. SQLite, JSON, data sources that you can tap into, Python.
-* TODO: https://www.youtube.com/watch?v=CPQCD3Qxxik
-
+* Great Podcast: I love the story of Django.. [#299 Personal search engine with datasette and dogsheep — Talk Python To Me — Overcast](https://overcast.fm/+F4RDYeRcw) He talks about my passion for personal data collection. SQLite, JSON, data sources that you can tap into, Python.
+* TODO: [YouTube](https://www.youtube.com/watch?v=CPQCD3Qxxik)
 
 
 ## Interesting Stuff
 
-* If you want to set goals or change your life in anyway, I really recommend this guy: https://youtu.be/LZZgxc1tnGM
-* @OpenAI has trained a model that can create new images - you just describe them in English. 🤯 openai.com/blog/dall-e/
-* The Art of Negotiation: https://youtu.be/_UaH98O7ku8 I’m tempted to say after listening to this guy for a while that a good voice trumps good looks..
-* I really enjoy this guy’s videos. I would suggest watching all three of these but this episode is outstanding. After crossing Wales in a straight line, he tries to cross Norway in the straight line. Totally crazy. https://youtu.be/kwzIwFPEGbA
+* If you want to set goals or change your life in anyway, I really recommend this guy: [YouTube](https://youtu.be/LZZgxc1tnGM)
+* @OpenAI has trained a model that can create new images - you just describe them in English. 🤯 [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+* The Art of Negotiation: [YouTube](https://youtu.be/_UaH98O7ku8) I’m tempted to say after listening to this guy for a while that a good voice trumps good looks..
+* I really enjoy this guy’s videos. I would suggest watching all three of these but this episode is outstanding. After crossing Wales in a straight line, he tries to cross Norway in the straight line. Totally crazy. [YouTube](https://youtu.be/kwzIwFPEGbA)
 * Pretty amazing thread about how Amazon AWS started: https://twitter.com/danrose999/status/1347677573900242944?s=21
-* I really enjoyed Amanda Gorman’s poem at the inauguration https://youtu.be/Wz4YuEvJ3y4 I looked at quite a few of her other performances and was again reminded of the power of words.
+* I really enjoyed Amanda Gorman’s poem at the inauguration [YouTube](https://youtu.be/Wz4YuEvJ3y4) I looked at quite a few of her other performances and was again reminded of the power of words.
 * Co-Pilot of the plane that went down in the Hudson River tells his story: https://youtu.be/qr5SxnDom7g
-* Stumbled across this history YouTube Channel: https://youtu.be/vVgCy6iwrHQ
-* How car seat laws have impacted the birthrate. Spoiler it is a bigger hassle/expensive to drive 3 kids vs 2 kids. https://overcast.fm/+WaLEzH_Wc
-* Some good leadership lessons here: https://overcast.fm/+I6DC--ISU
-* this was interesting when he got into talking about skills-domain-field… https://overcast.fm/+BcN3hQ3Jc
+* Stumbled across this history YouTube Channel: [YouTube](https://youtu.be/vVgCy6iwrHQ)
+* How car seat laws have impacted the birthrate. Spoiler it is a bigger hassle/expensive to drive 3 kids vs 2 kids. [447. How Much Do We Really Care About Children? — Freakonomics Radio — Overcast](https://overcast.fm/+WaLEzH_Wc)
+* Some good leadership lessons here: [8 reliable lessons for unreliable times — Masters of Scale with Reid Hoffman — Overcast](https://overcast.fm/+I6DC--ISU)
+* this was interesting when he got into talking about skills-domain-field… [My Favorite Things: How to Find Success No MATTER What Your Interest Is! — The James Altucher Show — Overcast](https://overcast.fm/+BcN3hQ3Jc)
 * wow if this really works https://twitter.com/mashable/status/1353034007517171712
-*  Very inspirational and detailed story how a guy built his own business: https://www.listennotes.com/blog/how-i-accidentally-built-a-podcast-api-business-46/
+*  Very inspirational and detailed story how a guy built his own business: [How I accidentally built a Podcast API business | Listen Notes](https://www.listennotes.com/blog/how-i-accidentally-built-a-podcast-api-business-46/)
 * Mozilla Engineer Track: https://twitter.com/Gankra_/status/1046438955439271936
-* The origin of the Beatles track "Dear Prudence" - https://youtu.be/_EENbm2oeX0
+* The origin of the Beatles track "Dear Prudence" - [YouTube](https://youtu.be/_EENbm2oeX0)
 
 
 ## To Try
 
+### Linux & Raspberry Pi Tools
+
 * n³ The unorthodox terminal file manager. 
-* I don't write much CSS/HTML at the moment but this looks like a useful tool https://docs.emmet.io/
-* Haruki Murakami: Daily Routine - Balance The Grind | Conversations On Work, Life & Balance https://www.balancethegrind.com.au/daily-routines/haruki-murakami-daily-routine/
-* This is the kind of website that I want to build. https://www.gwern.net/About I might make a static site generator to make this site look like it.
-* https://github.com/itchyny/mmv
-* https://www.snorkel.org/
-* MIT’s Introduction to Economics: A Free Online Course. https://www.openculture.com/2021/01/mits-introduction-to-economics-a-free-online-course.html
-* To listen: https://80000hours.org/podcast/episodes/we-are-not-worried-enough-about-the-next-pandemic/
-* *A half-hour to learn Rust* https://fasterthanli.me/articles/a-half-hour-to-learn-rust
-* https://www.youtube.com/watch?v=-knZwdd1ScU&feature=emb_logo
+* * Raspberry Pi terminal based activity monitor [GitHub - PierreKieffer/pitop: Raspberry Pi terminal based activity monitor](https://github.com/PierreKieffer/pitop)
+
+### Web Development Tools
+
+* [GitHub - itchyny/mmv: rename multiple files with editor](https://github.com/itchyny/mmv)
+
+### Programming Language Learning Aids
+
+* [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+
+### Miscellaneous Links
+
+* I don't write much CSS/HTML at the moment but this looks like a useful tool [Emmet](https://docs.emmet.io/)
+* [Haruki Murakami: Daily Routine - Balance The Grind | Conversations On Work, Life & Balance](https://www.balancethegrind.com.au/daily-routines/haruki-murakami-daily-routine/)
+* This is the kind of website that I want to build. I might make a static site generator to make this site look like it. [Gwern.net](https://www.gwern.net/About)
+* [Snorkel](https://www.snorkel.org/)
+*  [MIT's Introduction to Economics: A Free Online Course |  Open Culture](https://www.openculture.com/2021/01/mits-introduction-to-economics-a-free-online-course.html)
+* To listen: [Howie Lempel on why we aren't worried enough about the next pandemic — and specifically what we can do to stop it. - 80,000 Hours](https://80000hours.org/podcast/episodes/we-are-not-worried-enough-about-the-next-pandemic/)
+* [YouTube](https://www.youtube.com/watch?v=-knZwdd1ScU&feature=emb_logo)
 * https://twitter.com/thingskatedid/status/1316074032379248640?s=12
-* https://www.sutori.com/story/hendrik-marius-jonkers-and-self-healing-concrete--VRqdpkdTCK13o6ABHoWGC3tF
-* https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/
-* https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/
+* [Sutori](https://www.sutori.com/story/hendrik-marius-jonkers-and-self-healing-concrete--VRqdpkdTCK13o6ABHoWGC3tF)
+* [Server-sent events: a simple way to stream events from a server](https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug/)
+* [Adding comments to your static blog with Mastodon](https://carlschwan.eu/2020/12/29/adding-comments-to-your-static-blog-with-mastodon/)
 
 ```
 tldr jq     
@@ -189,4 +200,5 @@ tldr jq
 
 ### TODO
 * TODO: A shortcut or script that will make a nicely formatted insert from a raw YouTube URL
+* TODO: Look again at Python JobLib https://joblib.readthedocs.io/en/latest/persistence.html
 
