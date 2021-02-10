@@ -52,5 +52,5 @@ Will I get around to reading this?
 > Although the properties of ambergris have been known for centuries–and also its uses as medicine, condiment, aphrodisiac, and perfume­–its origins remain somewhat mysterious, and are still the subject of study and debate...
 
 * [Passing the sniff test: Is this large collection ambergris?](https://www.stuff.co.nz/national/124135092/passing-the-sniff-test-is-this-large-collection-ambergris) via [@macdstuart](https://twitter.com/macdstuart
-)* [Ambergris whale estimating selling and buying ambergris blocks grey amber from spermwhales found around the world.(ambergris)](http://www.ambergris.fr/index.html)
+* [Ambergris whale estimating selling and buying ambergris blocks grey amber from spermwhales found around the world.(ambergris)](http://www.ambergris.fr/index.html)
 * [The origin of ambergris](https://lajamjournal.org/index.php/lajam/article/view/231)
