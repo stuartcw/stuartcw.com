@@ -39,3 +39,9 @@ ThoughtAsylum is a web site created by Stephen Millard which contains all sorts 
 )
 I used the export action to post this content directly from Drafts.
 
+### Optic
+https://github.com/opticdev/optic#try-optic
+
+## Swift By Example
+
+Will I get around to reading this?
